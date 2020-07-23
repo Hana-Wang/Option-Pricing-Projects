@@ -1,0 +1,35 @@
+Last login: Sat Jul  4 15:56:30 on ttys000
+(base) mikki7s-MacBook-Pro:~ mikki7$ cd desktop
+(base) mikki7s-MacBook-Pro:desktop mikki7$ cd Interest_Rate_Model_Lecture_Notes
+(base) mikki7s-MacBook-Pro:Interest_Rate_Model_Lecture_Notes mikki7$ cd CPP
+(base) mikki7s-MacBook-Pro:CPP mikki7$ g++ MonteCarlo_BondOption2.cpp -o MonteCarlo_BondOption2
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 is 0.165976
+(base) mikki7s-MacBook-Pro:CPP mikki7$ g++ MonteCarlo_BondOption2.cpp -o MonteCarlo_BondOption2
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165795
+(base) mikki7s-MacBook-Pro:CPP mikki7$ g++ BondOptionPricing.cpp -o BondOptionPricing
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./BondOptionPricing
+European call on T-Bond price with option maturity T0 is 0.165866
+(base) mikki7s-MacBook-Pro:CPP mikki7$ g++ MonteCarlo_BondOption2.cpp -o MonteCarlo_BondOption2
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./BondOptionPricing
+European call on T-Bond price with option maturity T0 is 0.165866
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.16585
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.16593
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165955
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165838
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165736
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165779
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165865
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.165787
+(base) mikki7s-MacBook-Pro:CPP mikki7$ ./MonteCarlo_BondOption2
+European call on T-Bond price with option maturity T0 Using Monte Carlo Method is 0.166006
+(base) mikki7s-MacBook-Pro:CPP mikki7$ 
